@@ -13,7 +13,7 @@ Right clicking naveA or naveB blocks ... opens the Naval Battle fufo.
 
 ![alt text](https://raw.githubusercontent.com/jrlazz/lazznav/master/lazznav_img_1.png)
 
-![alt text](https://raw.githubusercontent.com/jrlazz/lazznav/master/lazznav_img.png)
+![alt text](https://raw.githubusercontent.com/jrlazz/lazznav/master/lazznav_img_2.png)
 
 Sam and his world do not make part of the fun, but without them, there were no funny forms.
 
