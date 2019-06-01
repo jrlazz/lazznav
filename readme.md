@@ -7,7 +7,7 @@ lazznav is a funny form ("fufo").
 
 ![alt text](https://raw.githubusercontent.com/jrlazz/lazznav/master/lazznav_img_0.jpg)
 
-![alt text](https://raw.githubusercontent.com/jrlazz/lazznav/master/naveA_naveB.jpg)
+![alt text](https://raw.githubusercontent.com/jrlazz/lazznav/master/naveA_naveB.png)
 
 Right clicking naveA or naveB blocks ... opens the Naval Battle fufo.
 
